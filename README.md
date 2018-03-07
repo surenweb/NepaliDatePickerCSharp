@@ -5,6 +5,9 @@ Dependency : .net Framework
 
 Nepali date picker CSharp is made up using .net's usercontrol and is similar to system's english datepicker.It adds features to choose date from calender to fed data in forms .Nepali datepicker CSharp provides interactive calendar to choose date, It is based on toolstrip menu so automatically closes on clicking elsewhere . Date validation is built in .
 
+![date picker image](../demo-screen/ScreenDemo/date_pick.png?raw=true "nepali date picker image")
+![nepali date methods](../demo-screen/ScreenDemo/date_methods.png?raw=true "nepali date methods")
+
 Overview:
 
     Light weight
